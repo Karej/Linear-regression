@@ -36,3 +36,5 @@ y_test = x_test*x[0][0] + x[1][0]
 print(x[0][0],x[1][0])
 #print(y_test)
 plt.show()
+
+print(Successfully updated)
